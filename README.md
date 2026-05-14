@@ -1,8 +1,3 @@
-Got you. Here’s a clean, GitHub-ready `README.md` for your `pytthonprojects/beginner` folder. Just copy-paste this into `beginner/README.md`.
-
-```markdown
-# 🐍 Python Beginner Projects
-
 A collection of 15+ beginner-friendly Python projects to help you learn programming fundamentals, GUI development, and real-world problem solving. 
 
 These projects were built while learning core Python concepts like functions, OOP, file I/O, APIs, and Tkinter GUI. Perfect if you're starting out and want hands-on examples.
@@ -87,7 +82,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ## 👤 Author
 **V. Karthik**
 - GitHub: [@karthikbilaspur](https://github.com/karthikbilaspur)
-- LinkedIn: Add your LinkedIn here
+- LinkedIn: [Add your LinkedIn here](https://www.linkedin.com/in/vasudev-karthik-b889272a7/)
 
 If this repo helped you, please give it a ⭐. It motivates me to build more!
 ```
